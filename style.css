@@ -1,0 +1,88 @@
+html {
+	font-size: 62.5%;
+	/* background-color: #e5e5e5; */
+    background-color: #305288;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	width: 680px;
+	display: flex;
+	background-color: white;
+	align-items: center;
+	border-radius: 25px;
+	height: 380px;
+	box-shadow: 5px 10px 18px #282063;
+}
+
+.faq {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: -200px;
+    width: inherit;
+}
+
+.question {
+    width: 420px;
+}
+
+.text-arrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 15px 0px;
+    align-items: center;
+}
+
+#ilustracao {
+	position: relative;
+	left: -200px;
+    width: 400px;
+    height: auto;
+}
+
+hr {
+    margin-top: 5px;
+}
+
+h1 {
+    margin-bottom: 20px;
+	font-size: 46px;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 17px;
+	font-weight: 500;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 300;
+    margin: 5px 0px;
+}
+
+.seta {
+    width: 15px;
+    height: 9px;
+}
+
+.clicada {
+    transform: rotate(180deg);
+    transition: ease;
+}
