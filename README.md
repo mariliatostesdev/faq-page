@@ -7,7 +7,7 @@ Este projeto consiste em um FAQ (Frequently Asked Questions) com respostas expan
 O projeto apresenta uma interface simples e intuitiva. A página inicial exibe uma ilustração representativa e uma lista de perguntas frequentes. Cada pergunta é acompanhada por uma seta indicativa, que, quando clicada, expande a resposta associada de forma suave e dinâmica. Isso proporciona uma experiência do usuário agradável e facilita a obtenção de informações relevantes.
 O projeto ainda não está responsivo, mas ficará em breve :)
 
-![GIF de Demonstração](link_para_seu_gif.gif)
+![](faq-page.gif)
 
 ## Tecnologias Utilizadas
 
