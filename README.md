@@ -31,7 +31,6 @@ O design do FAQ busca oferecer uma experiência visual atraente e consistente:
 
 ## Contato
 
-- **Nome:** Marília Ribeiro Tostes
 - **Email:** mahtostes.dev@gmail.com
 - **LinkedIn:** [LinkedIn - Marília Ribeiro Tostes](https://www.linkedin.com/in/marilia-ribeiro-tostes/)
 - **Whatsapp:** [Fale comigo!](https://wa.me/5567981443147)
